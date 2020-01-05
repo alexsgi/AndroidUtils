@@ -103,7 +103,7 @@ Example:
 public class MainActivity extends AppCompatActivity {
 	@Override  
 	protected void onCreate(Bundle savedInstanceState) {  
-	    super.onCreate(savedInstanceState);  
+	    	super.onCreate(savedInstanceState);  
 		setContentView(R.layout.activity_main);  
 		TextView textView = findViewById(R.id.txt);
 		ActivityUtils.setLightStatusBar(txt, this);
