@@ -14,7 +14,7 @@ allprojects {
 ```
 ```gradle
 dependencies {
-	implementation 'com.github.alexsgi:androidutils:1.0'
+	implementation 'com.github.alexsgi:android-utils:1.0'
 }
 ```
 (Instead of "1.0" you can insert every available version → check under "releases").
