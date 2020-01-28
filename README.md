@@ -1,6 +1,6 @@
 
 # AndroidUtils
-[![](https://jitpack.io/v/alexsgi/AndroidUtils.svg)](https://jitpack.io/#alexsgi/AndroidUtils) [![](https://jitci.com/gh/alexsgi/androidutils/svg)](https://jitci.com/gh/alexsgi/androidutils)
+[![](https://jitpack.io/v/alexsgi/AndroidUtils.svg)](https://jitpack.io/#alexsgi/AndroidUtils)
 
 ## 1. Import
 
