@@ -8,7 +8,6 @@ import android.os.CountDownTimer;
 import android.view.View;
 import android.widget.TextView;
 
-
 public class ActivityUtils {
 
     public static void setLightStatusBar(View view, Activity activity) {
