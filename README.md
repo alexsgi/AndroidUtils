@@ -113,13 +113,7 @@ public class MainActivity extends AppCompatActivity {
 ---
 
 ###  Mathematical functions :
-Standard:
-```java
-double sum(double... summands);
-double difference(double minuend, double... subtrahents);
-double product(double... factors);
-double quotient(double dividend, double... divisors);
-```
+
 Advanced:
 ```java
 BigDecimal bigSum(BigDecimal... summands);
